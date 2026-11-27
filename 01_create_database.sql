@@ -1,0 +1,2 @@
+CREATE DATABASE quickcommerce;
+SHOW DATABASES;
